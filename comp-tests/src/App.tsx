@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
         <p>component 1</p>
+        <p>component coverage</p>
       </header>
     </div>
   );
