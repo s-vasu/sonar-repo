@@ -27,7 +27,7 @@ jobs:
       - name: list all
         run: ls -l
       - name: check coverage
-        run: cat ./component/lcov.info
+        run: cat ./coverage/lcov.info
 
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@master
