@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>component 1</p>
+        <p>component 1 edited</p>
       </header>
     </div>
   );
