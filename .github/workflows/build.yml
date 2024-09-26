@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./comp-testsss
+        working-directory: ./comp-tests
     steps:
       - uses: actions/checkout@v2
         with:
